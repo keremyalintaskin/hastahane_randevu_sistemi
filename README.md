@@ -3,9 +3,9 @@
 Java Swing kullanılarak geliştirilmiş, MySQL veritabanı ile çalışan masaüstü tabanlı bir Hastane Randevu Yönetim Sistemidir.  
 Sistem; Hasta ve Doktor kullanıcı rollerini destekler ve randevu alma, yönetme ve muayene süreçlerini kapsar.
 
-## Ekran Görüntüleri / Diyagramlar
+## Diyagramlar
 
-Aşağıdaki görseller GitHub üzerinde README içinde görüntülenir:
+
 
 ![Class Diagram](https://github.com/user-attachments/assets/2eb7a1c6-3671-4c58-99df-608fc715f069)
 ![Sequence Diagram](https://github.com/user-attachments/assets/7ce62b03-dc91-413e-97d8-06463e1167bf)
