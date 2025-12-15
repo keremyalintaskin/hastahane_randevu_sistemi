@@ -8,7 +8,7 @@ Sistem; Hasta ve Doktor kullanıcı rollerini destekler ve randevu alma, yönetm
 ![Sequence Diagram](https://github.com/user-attachments/assets/7ce62b03-dc91-413e-97d8-06463e1167bf)
 ![ER Diagram](https://github.com/user-attachments/assets/69d52919-d856-43f9-953d-b2a5ae5db22f)
 ![Use Case Diagram](https://github.com/user-attachments/assets/e8aaec1b-f7e5-4c01-898d-ff210feb3bc9)
-
+https://cdn.discordapp.com/attachments/1450135129535025162/1450224483863630035/class_abstracts_and_patterns.png.png?ex=6941c24c&is=694070cc&hm=d55939c4d54353c392e3ceaa88b8928d7193bc1c215312122fb2e3af5a6a89c4&
 ## Proje Özellikleri
 
 ### Kullanıcı Rolleri
