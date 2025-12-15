@@ -4,9 +4,6 @@ Java Swing kullanılarak geliştirilmiş, MySQL veritabanı ile çalışan masa�
 Sistem; Hasta ve Doktor kullanıcı rollerini destekler ve randevu alma, yönetme ve muayene süreçlerini kapsar.
 
 ## Diyagramlar
-
-
-
 ![Class Diagram](https://github.com/user-attachments/assets/2eb7a1c6-3671-4c58-99df-608fc715f069)
 ![Sequence Diagram](https://github.com/user-attachments/assets/7ce62b03-dc91-413e-97d8-06463e1167bf)
 ![ER Diagram](https://github.com/user-attachments/assets/69d52919-d856-43f9-953d-b2a5ae5db22f)
